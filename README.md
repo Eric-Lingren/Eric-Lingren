@@ -10,7 +10,7 @@
 ### What I know how to use
 ---
 
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
 
 <img src="{https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white}" height="26"  />
 [<img src="[https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84]([https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white))" alt="Flutterlogo" title="Flutter" height="25" />][tech_tools_anchor]]
