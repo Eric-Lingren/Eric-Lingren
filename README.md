@@ -9,7 +9,7 @@
 
 ### What I know how to use
 ---
-<img src="{https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white}" height="26"  />
 
 <br>
 
