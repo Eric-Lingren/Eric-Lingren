@@ -1,6 +1,6 @@
 ## Greetings 👋
 
-I'm a frontend-first engineer.  
+I'm a frontend-first engineer.
 <br>
 Think in data, design for security, explore the world - digitally and physically.
 <br><br>
