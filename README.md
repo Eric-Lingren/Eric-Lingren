@@ -1,9 +1,9 @@
 ## Greetings 👋
-<br>
+
 I'm a frontend-first engineer.  
 <br>
 Think in data, design for security, explore the world - digitally and physically.
-<br>
+<br><br>
 
 ### What I love
 ---
