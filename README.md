@@ -2,7 +2,7 @@
 
 
 
-### What I love to use every day
+### What I love
 ---
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="28" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="28" />&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@
 
 <br>
 
-### What I know how to use
+### What I know
 ---
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="28" />&nbsp;&nbsp;&nbsp;
@@ -48,9 +48,8 @@
 
 <br>
 
-### What I'm learning how to use:
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind_CSS logo" title="Tailwind_CSS" height="28" />
-<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJs logo" title="ThreeJs" height="28" />
+### What I'm learning
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind_CSS logo" title="Tailwind_CSS" height="28" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJs logo" title="ThreeJs" height="28" />
 
 ---
 
