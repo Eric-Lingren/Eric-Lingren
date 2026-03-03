@@ -26,6 +26,11 @@
 
 ### What I know
 ---
+<!-- UI / Frontend -->
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="28" />
+<br>
 <!-- Mobile -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
@@ -33,32 +38,28 @@
 <!-- Testing -->
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" height="28" />
-<br><br>
+<br>
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
-<br><br>
+<br>
 <!-- Backend / Infra -->
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28" />
-<br><br>
-<!-- UI / Frontend -->
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="28" />
-<br><br>
+<br>
 <!-- Data / Monitoring -->
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="28" />
-<br><br>
+<br>
 <!-- Creative -->
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" height="28" />
-<br><br>
+<br>
 <!-- Security -->
-<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="28" />
 <br>
 
 ### What I'm learning
