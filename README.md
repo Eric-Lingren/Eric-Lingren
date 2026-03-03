@@ -2,7 +2,7 @@
 
 I'm a frontend-first engineer.
 
-Think in data, design for security, explore the world - digitally and physically.
+Think in data, design for security, explore the world.
 <br><br>
 
 ### What I love
