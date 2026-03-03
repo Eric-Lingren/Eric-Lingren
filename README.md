@@ -53,9 +53,9 @@
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <br>
 <!-- Data / Monitoring -->
+<img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <br>
