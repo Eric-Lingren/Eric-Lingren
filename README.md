@@ -5,7 +5,7 @@ I'm a frontend-first engineer.
 Think in data, design for security, explore the world.
 <br><br>
 
-### What I love
+#### What I love
 ---
 <!-- Front End -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="24" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="24" />&nbsp;&nbsp;
@@ -20,53 +20,53 @@ Think in data, design for security, explore the world.
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" height="24" />&nbsp;&nbsp;
 <br>
 <!-- Other -->
-<img src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="24" />&nbsp;&nbsp;
 <br>
 <br>
 
 
-### What I know
+#### What I know
 ---
 <!-- Mobile -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24" />&nbsp;&nbsp;
 <br>
 <!-- UI / Frontend -->
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="24" />&nbsp;&nbsp;
 <br>
 <!-- Testing -->
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" height="24" />&nbsp;&nbsp;
 <br>
 <!-- Databases -->
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="24" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="24" />&nbsp;&nbsp;
 <br>
 <!-- Backend / Infra -->
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="24" />&nbsp;&nbsp;
 <br>
 <!-- Data / Monitoring -->
-<img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="24" />&nbsp;&nbsp;
 <br>
 <!-- Security -->
-<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="24" />&nbsp;&nbsp;
 <br>
 <br>
 
-### What I'm learning
+#### What I'm learning
 ---
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind_CSS logo" title="Tailwind_CSS" height="24" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJs logo" title="ThreeJs" height="24" />
 
