@@ -14,10 +14,10 @@ Think in data, design for security, explore the world.
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="24" />&nbsp;
 <br>
 <!-- Back End -->
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" height="24" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="24" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" height="24" />&nbsp;&nbsp;
 <br>
 <!-- Other -->
 <img src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703" height="24" />&nbsp;&nbsp;&nbsp;
