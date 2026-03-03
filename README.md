@@ -59,10 +59,6 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <br>
-<!-- Creative -->
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="28" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
-<br>
 <!-- Security -->
 <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
