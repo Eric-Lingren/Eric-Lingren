@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 
+<br> <br>
 
 ### What I love
 ---
@@ -22,6 +23,7 @@
 <img src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703" alt="Vitest logo" title="Vitest" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="28" />&nbsp;&nbsp;&nbsp;
 <br>
+<br>
 
 
 ### What I know
@@ -41,12 +43,12 @@
 <br>
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" />&nbsp;&nbsp;&nbsp;
 <br>
 <!-- Backend / Infra -->
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28" />
 <br>
 <!-- Data / Monitoring -->
@@ -60,6 +62,7 @@
 <!-- Security -->
 <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="28" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="28" />
+<br>
 <br>
 
 ### What I'm learning
